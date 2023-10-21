@@ -7,6 +7,7 @@ The Telcom company wants advice on how to reduce money lost because of customers
 ##Project Details.
 
 This project was looking at ways in which Telecom company can improve their services and manage to retain more of their customers.Datasets from SyriaTel Customer Churn was used for analysis.
+![Telecommunication_comp](https://github.com/mourinem97/Phase-3-project/blob/main/Capture%205.PNG)
 Some exploratory analysis was performed and some recommendations were shared with the company:
 1.The company should increase more of bonuses like international plan calls, eveningcalls and some others which will make the customers stick around for long especially those customers who have accounts with the company for long,
 2.Enhance Customer support and improvecustomer service by ensuring that customers canreach support anytime they are in need. Alsoacting on real time basis for all feedback sharedby the customers.
