@@ -6,7 +6,7 @@ The Telcom company wants advice on how to reduce money lost because of customers
 
 ##Project Details.
 
-This project was looking at ways in which Telecom company can improve their services and manage to retain more of their customers.Datasets from SyriaTel Customer Churn was used for analysis.
+This project was looking at ways in which Telecom company can improve their services and manage to retain more of their customers and avoid losing money from customers leaving after a short period of time.Datasets from SyriaTel Customer Churn was used for analysis.
 
 ![Telecommunication_comp](https://github.com/mourinem97/Phase-3-project/blob/main/Capture%205.PNG)
 
