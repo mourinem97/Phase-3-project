@@ -1,7 +1,7 @@
 #EXPLORATORY DATA ANALYSIS FOR TELCOM COMPANY
 
 
-![Customer_care_picture]()
+![Customer_care_picture](https://github.com/mourinem97/Phase-3-project/blob/main/Capture%204.PNG)
 The Telcom company wants advice on how to reduce money lost because of customers who do not stick around very long,all analysis was done from the available datasets and here are the shared insights.
 
 ##Project Details.
