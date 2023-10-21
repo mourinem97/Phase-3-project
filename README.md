@@ -19,6 +19,7 @@ customer experience byunderstanding customer preferencesand tailoring the offers
 4.Analyze churn data regularly andmake informed decisions based onthe data and feedback shared by thecustomers for continous improvement
 #Conclusion
 Based on the findings,the following was concluded.
+
 1.Added bonuses help in customer retention,bonuses like;international plan,evening calls etc
 80% INTERNATIONAL CALLSREDUCES CHURNS
 20% EVENING CALLSREDUCE CHURNS
