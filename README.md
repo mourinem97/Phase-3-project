@@ -18,12 +18,15 @@ Based on the findings,the following was concluded.
 1.Added bonuses help in customer retention,bonuses like;international plan,evening calls etc
 80% INTERNATIONAL CALLSREDUCES CHURNS
 20% EVENING CALLSREDUCE CHURNS
+
+
 2.The number of Customer service has an impact to how long theCustomers will stay since the low the calls, the high the likelihood to drop.
 ![No_of_calls](https://github.com/mourinem97/Phase-3-project/blob/main/Capture.PNG)
 
+
 3.that churn and account length is a factor ,where the customers who havestayed for long their turn over is high
 
-![Customer_duration](https://github.com/mourinem97/Phase-3-_project/blob/master/Capture%203.PNG)
+![Customer_duration]()
 
 
 
