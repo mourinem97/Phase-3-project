@@ -38,5 +38,12 @@ BUSINESS RECOMMENDATIONS
 
 
 #CONCLUSION
-From the analysis there is an impact of bonuse like evening calls and international plans and therefore,this should be highly considered as a plan for customer retention.
+
+1.From the analysis there is an impact of bonuse like evening calls and international plans and therefore,this should be highly considered as a plan for customer retention.
+![Bonus_plan](https://github.com/mourinem97/Phase-3-project/blob/main/Capture%207.PNG)
+
+2.There is a relative relationship between customers with an account in the company for long churning as compared to those new customers.
+![Chun_pic]()
+
+
 
