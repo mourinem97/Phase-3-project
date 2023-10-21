@@ -26,8 +26,7 @@ Based on the findings,the following was concluded.
 
 3.that churn and account length is a factor ,where the customers who havestayed for long their turn over is high
 
-![Customer_duration]()
-
+![Customer_duration](https://github.com/mourinem97/Phase-3-project/blob/main/Capture%203.PNG)
 
 
 BUSINESS RECOMMENDATIONS
