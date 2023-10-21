@@ -1,4 +1,4 @@
-#EXPLORATORY DATA ANALYSIS FOR TELCOM COMPANY
+#EXPLORATORY DATA ANALYSIS FOR TELECOM COMPANY
 
 
 ![Customer_care_picture](https://github.com/mourinem97/Phase-3-project/blob/main/Capture%204.PNG)
