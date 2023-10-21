@@ -30,6 +30,7 @@ Based on the findings,the following was concluded.
 
 
 BUSINESS RECOMMENDATIONS
+
 1.The company should increase more of bonuses like international plan calls, eveningcalls and some others which will make thecustomers stick around for long especially thecustomers who have accounts with thecompany for long,
 2.Enhance Customer support and improvecustomer service by ensuring that customers canreach support anytime they are in need. Alsoacting on real time basis for all feedback sharedby the customers.
 3.Personalize customer experience byunderstanding customer preferencesand tailoring the offers andcommunications based on them.
