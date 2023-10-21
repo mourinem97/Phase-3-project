@@ -1,7 +1,7 @@
 #EXPLORATORY DATA ANALYSIS FOR TELCOM COMPANY
 
 
-![Customer_care_picture](https://github.com/mourinem97/Phase-3-project.PNG)
+![Customer_care_picture](https://github.com/mourinem97/Phase-3-project%204.PNG)
 The Telcom company wants advice on how to reduce money lost because of customers who do not stick around very long,all analysis was done from the available datasets and here are the shared insights.
 
 ##Project Details.
@@ -19,14 +19,11 @@ Based on the findings,the following was concluded.
 80% INTERNATIONAL CALLSREDUCES CHURNS
 20% EVENING CALLSREDUCE CHURNS
 2.The number of Customer service has an impact to how long theCustomers will stay since the low the calls, the high the likelihood to drop.
+![No_of_calls](https://github.com/mourinem97/Phase-3-_project/blob/master/Capture.PNG)
+
 3.that churn and account length is a factor ,where the customers who havestayed for long their turn over is high
 
-
-
-
-
-
-
+![Customer_duration](https://github.com/mourinem97/Phase-3-_project/blob/master/Capture%203.PNG)
 
 
 
