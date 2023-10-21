@@ -35,3 +35,8 @@ BUSINESS RECOMMENDATIONS
 2.Enhance Customer support and improvecustomer service by ensuring that customers canreach support anytime they are in need. Alsoacting on real time basis for all feedback sharedby the customers.
 3.Personalize customer experience byunderstanding customer preferencesand tailoring the offers andcommunications based on them.
 4.Analyze churn data regularly andmake informed decisions based onthe data and feedback shared by thecustomers for continous improvement
+
+
+#CONCLUSION
+From the analysis there is an impact of bonuse like evening calls and international plans and therefore,this should be highly considered as a plan for customer retention.
+
